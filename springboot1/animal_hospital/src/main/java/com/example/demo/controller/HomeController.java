@@ -1,19 +1,20 @@
 package com.example.demo.controller;
+
 import org.springframework.stereotype.Controller;
- 
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import com.example.demo.model.User;
+
 @Controller
-public class HomeController{
-	@GetMapping("/")
-	public String index(){
+public class HomeController {
+	@GetMapping("/form")
+	private String readForm(@ModelAttribute User user){
 		return "form";
 	}
-	@PostMapping("/confirm")
-	public String confirm(@RequestParam("message") String message, Model model) {
-		model.addAttribute("message", message);
+
+	@PostMapping("/form")
+	private String form(@ModelAttribute User user){
 		return "confirm";
 	}
 }
