@@ -55,3 +55,18 @@
 2021-05-06 13:26:19,097 [Worker-19: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-05-06 13:26:19,097 [Worker-19: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-05-06 13:26:19,098 [Worker-19: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/iwamotokenji/study/study/animal-hospital/springboot1/animal_hospital/src/test/resources
+2021-05-08 22:58:04,584 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-05-08 22:58:35,595 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 22:58:35,597 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-08 22:58:35,605 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-08 22:58:35,635 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-05-08 22:58:35,689 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 22:58:35,689 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-08 22:58:35,689 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/iwamotokenji/study/study/animal-hospital/springboot1/animal_hospital/src/test/resources
+2021-05-08 22:59:02,865 [Worker-1: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 22:59:02,866 [Worker-1: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-08 22:59:02,871 [Worker-1: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-08 22:59:02,890 [Worker-1: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-05-08 22:59:02,897 [Worker-1: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 22:59:02,898 [Worker-1: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-08 22:59:02,898 [Worker-1: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/iwamotokenji/study/study/animal-hospital/springboot1/animal_hospital/src/test/resources
