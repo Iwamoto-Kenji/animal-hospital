@@ -10,7 +10,7 @@ import com.example.demo.model.Inquiry;
 
 @Controller
 public class InquiryController{
-	@GetMapping("/")
+	@GetMapping("/inquiry")
 	public String index(@ModelAttribute Inquiry inquiry){
 		return"index";
 	}
