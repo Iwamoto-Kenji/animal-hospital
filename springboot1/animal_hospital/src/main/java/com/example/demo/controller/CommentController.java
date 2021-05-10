@@ -18,7 +18,7 @@ public class CommentController{
 		this.repository=repository;
 	}
 	
-	@GetMapping("/")
+	@GetMapping("/comments")
 	public String getAllComments(@ModelAttribute Comment comment,Model model){
 		model.addAttribute("comments",repository.findAll());
 		return "list";
